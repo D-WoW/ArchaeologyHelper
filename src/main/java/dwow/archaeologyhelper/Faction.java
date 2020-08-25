@@ -13,6 +13,7 @@ public enum Faction {
     AGNOSTIC("Agnostic"),
     ZAROSIAN("Zarosian"),
     ZAMORAKIAN("Zamorakian"),
+    SARADOMINIST("Saradominist"),
     ARMADYLEAN("Armadylean"),
     BANDOSIAN("Bandosian");
     
