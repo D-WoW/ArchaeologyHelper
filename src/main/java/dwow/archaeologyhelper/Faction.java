@@ -10,6 +10,9 @@ package dwow.archaeologyhelper;
  * @author Michael
  */
 public enum Faction {
+    /**
+     * Name
+     */
     AGNOSTIC("Agnostic"),
     ZAROSIAN("Zarosian"),
     ZAMORAKIAN("Zamorakian"),
@@ -17,13 +20,33 @@ public enum Faction {
     ARMADYLEAN("Armadylean"),
     BANDOSIAN("Bandosian");
     
+    /**
+     * Name of the Faction
+     */
     private final String name;
     
+    /**
+     * A private constructor for initializing Faction objects
+     * @param name          The name of the Faction
+     */
     private Faction(String name) {
         this.name = name;
     }
     
+    /**
+     * Get the name of the Faction
+     * @return 
+     */
     public String getName() {
+        return this.name;
+    }
+    
+    /**
+     * Get the visual String representation for the Faction enumeration
+     * @return 
+     */
+    @Override
+    public String toString() {
         return this.name;
     }
 }
