@@ -1,1 +1,1008 @@
-[]
+{
+    "collections": [
+        {
+            "name": "Anarchic Abstraction",
+            "minlevel": 24,
+            "maxlevel": 89,
+            "artefacts": [
+                "'Disorder' painting",
+                "'The Lake of Fire' painting",
+                "'Pandemonium' tapestry"
+            ],
+            "collector": "Art Critic Jacques",
+            "reward_once": "Replica Zamorakian art",
+            "reward_always": {
+                "chronotes": 1574
+            }
+        },
+        {
+            "name": "Radiant Renaissance",
+            "minlevel": 105,
+            "maxlevel": 105,
+            "artefacts": [
+                "'Hallowed Be the Everlight' painting",
+                "'The Lord of Light' painting",
+                "'The Pride of Padosan' painting"
+            ],
+            "collector": "Art Critic Jacques",
+            "reward_once": "Replica Saradominist Art",
+            "reward_always": {
+                "chronotes": 2730
+            }
+        },
+        {
+            "name": "Imperial Impressionism",
+            "minlevel": 25,
+            "maxlevel": 118,
+            "artefacts": [
+                "'Solem in Umbra' painting",
+                "'Consensus ad Idem' painting",
+                "'Prima Legio' painting"
+            ],
+            "collector": "Art Critic Jacques",
+            "reward_once": "Replica Zarosian Art",
+            "reward_always": {
+                "chronotes": 2086
+            }
+        },
+        {
+            "name": "Blingy Fings",
+            "minlevel": 47,
+            "maxlevel": 69,
+            "artefacts": [
+                "Ancient timepiece",
+                "Legatus pendant",
+                "Pontifex signet ring",
+                "Bronze Dominion medal",
+                "Silver Dominion medal"
+            ],
+            "collector": "Chief Tess",
+            "reward_once": null,
+            "reward_always": {
+                "chronotes": 2484,
+                "robust_glass": 20
+            }
+        },
+        {
+            "name": "Smoky Fings",
+            "minlevel": 20,
+            "maxlevel": 81,
+            "artefacts": [
+                "Hookah pipe",
+                "Opulent wine goblet",
+                "Everlight trumpet",
+                "Dominion torch",
+                "Pontifex censer"
+            ],
+            "collector": "Chief Tess",
+            "reward_once": "Oo'glog Wellspring",
+            "reward_always": {
+                "chronotes": 2204,
+                "robust_glass": 40
+            }
+        },
+        {
+            "name": "Hitty Fings",
+            "minlevel": 74,
+            "maxlevel": 89,
+            "artefacts": [
+                "Ceremonial mace",
+                "Pontifex crozier",
+                "Fishing Trident",
+                "High priest crozier",
+                "High priest orb"
+            ],
+            "collector": "Chief Tess",
+            "reward_once": null,
+            "reward_always": {
+                "chronotes": 5136,
+                "robust_glass": 40
+            }
+        },
+        {
+            "name": "Showy Fings",
+            "minlevel": 24,
+            "maxlevel": 92,
+            "artefacts": [
+                "Crest of Dagon",
+                "Legatus Maximus figurine",
+                "'Lust' metal sculpture",
+                "Pontifex Maximus figurine",
+                "Ceremonial plume",
+                "Rod of Asclepius"
+            ],
+            "collector": "Chief Tess",
+            "reward_once": null,
+            "reward_always": {
+                "chronotes": 3158,
+                "robust_glass": 40
+            }
+        },
+        {
+            "name": "Red Rum Relics I",
+            "minlevel": 81,
+            "maxlevel": 94,
+            "artefacts": [
+                "Ork cleaver sword",
+                "Ogre Kyzaj axe",
+                "Beastkeeper helm",
+                "'Nosorog' sculpture"
+            ],
+            "collector": "General Bentnoze",
+            "reward_once": null,
+            "reward_always": {
+                "chronotes": 2884,
+                "tetracompass_piece": 1
+            }
+        },
+        {
+            "name": "Red Rum Relics II",
+            "minlevel": 97,
+            "maxlevel": 110,
+            "artefacts": [
+                "Ourg megahitter",
+                "Ourg tower/goblin cower shield",
+                "'Forged in War' sculpture",
+                "Hobgoblin mansticker"
+            ],
+            "collector": "General Bentnoze",
+            "reward_once": null,
+            "reward_always": {
+                "chronotes": 3468,
+                "tetracompass_piece": 1
+            }
+        },
+        {
+            "name": "Red Rum Relics III",
+            "minlevel": 115,
+            "maxlevel": 119,
+            "artefacts": [
+                "Kal-i-kra chieftain crown",
+                "Kal-i-kra mace",
+                "Kal-i-kra warhorn",
+                "'Da Boss Man' sculpture"
+            ],
+            "collector": "General Bentnoze",
+            "reward_once": "Helm of Terror (inside)",
+            "reward_always": {
+                "chronotes": 4540,
+                "tetracompass_piece": 1
+            }
+        },
+        {
+            "name": "Green Gobbo Goodies I",
+            "minlevel": 76,
+            "maxlevel": 83,
+            "artefacts": [
+                "Ekeleshuun blinder mask",
+                "Narogoshuun 'Hob-da-Gob' ball",
+                "Rekeshuun war tether",
+                "Thorobshuun battle standard",
+                "Yurkolgokh stink grenade"
+            ],
+            "collector": "General Wartface",
+            "reward_once": null,
+            "reward_always": {
+                "chronotes": 3252,
+                "tetracompass_piece": 1
+            }
+        },
+        {
+            "name": "Green Gobbo Goodies II",
+            "minlevel": 89,
+            "maxlevel": 97,
+            "artefacts": [
+                "High priest crozier",
+                "High priest mitre",
+                "High priest orb",
+                "Idithuun horn ring",
+                "Garagorshuun anchor"
+            ],
+            "collector": "General Wartface",
+            "reward_once": null,
+            "reward_always": {
+                "chronotes": 3758,
+                "tetracompass-piece": 1
+            }
+        },
+        {
+            "name": "Green Gobbo Goodies III",
+            "minlevel": 100,
+            "maxlevel": 119,
+            "artefacts": [
+                "Dorgeshuun spear",
+                "Huzamogaarb chaos crown",
+                "Saragorgak star crown",
+                "Drogokishuun hook sword",
+                "Horogothgar cooking pot",
+                "'Da Boss Man' sculpture"
+            ],
+            "collector": "General Wartface",
+            "reward_once": "Helm of Terror (outside)",
+            "reward_always": {
+                "chronotes": 6044,
+                "tetracompass-piece": 1
+            }
+        },
+        {
+            "name": "Zamorakian I",
+            "minlevel": 20,
+            "maxlevel": 36,
+            "artefacts": [
+                "Hookah pipe",
+                "Opulent wine goblet",
+                "Crest of Dagon",
+                "'Disorder' painting",
+                "Imp mask",
+                "Lesser demon mask",
+                "Greater demon mask",
+                "Order of Dis robes",
+                "Ritual dagger"
+            ],
+            "collector": "Isaura",
+            "reward_once": "Abyssal thread",
+            "reward_always": {
+                "chronotes": 2594
+            }
+        },
+        {
+            "name": "Zamorakian II",
+            "minlevel": 45,
+            "maxlevel": 81,
+            "artefacts": [
+                "Branding iron",
+                "Manacles",
+                "'The Lake of Fire' painting",
+                "'Lust' metal sculpture",
+                "Chaos star",
+                "Spiked dog collar",
+                "Larupia trophy",
+                "Lion trophy",
+                "She-wolf trophy"
+            ],
+            "collector": "Isaura",
+            "reward_once": null,
+            "reward_always": {
+                "chronotes": 5146,
+                "tetracompass-piece": 1
+            }
+        },
+        {
+            "name": "Zamorakian III",
+            "minlevel": 89,
+            "maxlevel": 104,
+            "artefacts": [
+                "'Torment' metal sculpture",
+                "'Pandemonium' tapestry",
+                "Hellfire haladie",
+                "Hellfire katar",
+                "Hellfire zaghnal",
+                "'Possession' metal sculpture",
+                "Trishula",
+                "Tsutsaroth piercing"
+            ],
+            "collector": "Isaura",
+            "reward_once": null,
+            "reward_always": {
+                "chronotes": 6608,
+                "tetracompass-piece": 1
+            }
+        },
+        {
+            "name": "Zamorakian IV",
+            "minlevel": 110,
+            "maxlevel": 116,
+            "artefacts": [
+                "Chaos Elemental trophy",
+                "Virius trophy",
+                "Tsutsaroth helm",
+                "Tsutsaroth pauldron",
+                "Tsutsaroth urumi"
+            ],
+            "collector": "Isaura",
+            "reward_once": "Ariadne's Diadem",
+            "reward_always": {
+                "chronotes": 5434,
+                "tetracompass-piece": 1
+            }
+        },
+        {
+            "name": "Armadylean I",
+            "minlevel": 70,
+            "maxlevel": 81,
+            "artefacts": [
+                "Ikovian gerege",
+                "Toy glider",
+                "Toy war golem",
+                "Avian song-egg player",
+                "Keshik drum",
+                "Morin khuur",
+                "Aviansie dreamcoat",
+                "Ceremonial plume",
+                "Peacocking parasol"
+            ],
+            "collector": "Lowse",
+            "reward_once": "King Oberon's moonshroom spores",
+            "reward_always": {
+                "chronotes": 5688,
+                "torn-blueprint-fragments": 50
+            }
+        },
+        {
+            "name": "Armadylean II",
+            "minlevel": 85,
+            "maxlevel": 98,
+            "artefacts": [
+                "Hawkeye lens multi-vision scope",
+                "Talon-3 razor wing",
+                "Prototype gravimeter",
+                "Songbird recorder",
+                "Dayguard shield",
+                "Stormguard gerege",
+                "Golem heart",
+                "Golem instruction"
+            ],
+            "collector": "Lowse",
+            "reward_once": null,
+            "reward_always": {
+                "chronotes": 6068,
+                "torn-blueprint-fragments": 75
+            }
+        },
+        {
+            "name": "Armadylean III",
+            "minlevel": 103,
+            "maxlevel": 118,
+            "artefacts": [
+                "Blackfire lance",
+                "Nightguard shield",
+                "Flat cap",
+                "Night owl flight goggles",
+                "Prototype godbow",
+                "Prototype godstaff",
+                "Prototype godsword",
+                "Chuluu stone",
+                "Quintessence counter",
+                "Spherical astrolabe"
+            ],
+            "collector": "Lowse",
+            "reward_once": "Howl's Thinking Cap",
+            "reward_always": {
+                "chronotes": 10468,
+                "torn-blueprint-fragments": 150
+            }
+        },
+        {
+            "name": "Saradominist I",
+            "minlevel": 42,
+            "maxlevel": 56,
+            "artefacts": [
+                "'Frying pan'",
+                "Hallowed lantern",
+                "Ceremonial unicorn ornament",
+                "Ceremonial unicorn saddle",
+                "Everlight harp",
+                "Everlight trumpet",
+                "Everlight violin",
+                "Folded-arm figurine (female)",
+                "Folded-arm figurine (male)"
+            ],
+            "collector": "Sir Atcha",
+            "reward_once": "Lock of hair",
+            "reward_always": {
+                "chronotes": 3998
+            }
+        },
+        {
+            "name": "Saradominist II",
+            "minlevel": 61,
+            "maxlevel": 72,
+            "artefacts": [
+                "Dominion discus",
+                "Dominion javelin",
+                "Dominion pelte shield",
+                "Bronze Dominion medal",
+                "Silver Dominion medal",
+                "Dominion torch",
+                "Decorative vase",
+                "Kantharos cup",
+                "Patera bowl"
+            ],
+            "collector": "Sir Atcha",
+            "reward_once": null,
+            "reward_always": {
+                "chronotes": 5202,
+                "tetracompass-piece": 1
+            }
+        },
+        {
+            "name": "Saradominist III",
+            "minlevel": 84,
+            "maxlevel": 100,
+            "artefacts": [
+                "Dominarian device",
+                "Fishing trident",
+                "Amphora",
+                "Rod of Asclepius",
+                "Kopis dagger",
+                "Xiphos short"
+            ],
+            "collector": "Sir Atcha",
+            "reward_once": null,
+            "reward_always": {
+                "chronotes": 4548,
+                "tetracompass-piece": 1
+            }
+        },
+        {
+            "name": "Saradominist IV",
+            "minlevel": 105,
+            "maxlevel": 117,
+            "artefacts": [
+                "'The Pride of Padosan' painting",
+                "'Hallowed Be the Everlight' painting",
+                "'The Lord of Light' painting",
+                "'The Enlightened Soul' scroll",
+                "'The Eudoxian Elements' tablet",
+                "Dore spear",
+                "Kontos lance"
+            ],
+            "collector": "Sir Atcha",
+            "reward_once": null,
+            "reward_always": {
+                "chronotes": 7022,
+                "tetracompass-piece": 1
+            }
+        },
+        {
+            "name": "Zarosian I",
+            "minlevel": 5,
+            "maxlevel": 25,
+            "artefacts": [
+                "Venator dagger",
+                "Venator light crossbow",
+                "Legionary gladius",
+                "Legionary square shield",
+                "Primis Elementis standard",
+                "Zaros effigy",
+                "Zarosian training dummy",
+                "Legatus Maximus figurine",
+                "'Solem in Umbra' painting"
+            ],
+            "collector": "Soran",
+            "reward_once": "Seal of the Praefectus Praetorio",
+            "reward_always": {
+                "chronotes": 2108,
+                "pylon-batteries": 20
+            }
+        },
+        {
+            "name": "Zarosian II",
+            "minlevel": 47,
+            "maxlevel": 81,
+            "artefacts": [
+                "Ancient timepiece",
+                "Legatus pendant",
+                "'Incite Fear' spell scroll",
+                "Pontifex signet ring",
+                "Ceremonial mace",
+                "Pontifex Maximus",
+                "'Concensus ad Idem' painting",
+                "Pontifex censer",
+                "Pontifex crozier",
+                "Pontifex mitre"
+            ],
+            "collector": "Soran",
+            "reward_once": null,
+            "reward_always": {
+                "chronotes": 5732,
+                "pylon-batteries": 50
+            }
+        },
+        {
+            "name": "Zarosian III",
+            "minlevel": 86,
+            "maxlevel": 107,
+            "artefacts": [
+                "'Exsanguinate' spell scroll",
+                "Necromantic focus",
+                "Zarosian ewer",
+                "Zarosian stein",
+                "'Smoke Cloud' spell scroll",
+                "Vigorem vial",
+                "Ancient magic tablet",
+                "'Animate Dead' spell scroll",
+                "Portable phylactery"
+            ],
+            "collector": "Soran",
+            "reward_once": null,
+            "reward_always": {
+                "chronotes": 7442,
+                "pylon-batteries": 100
+            }
+        },
+        {
+            "name": "Zarosian IV",
+            "minlevel": 114,
+            "maxlevel": 118,
+            "artefacts": [
+                "Praetorian hood",
+                "Preatorian robes",
+                "Praetorian staff",
+                "Ancient globe",
+                "Battle plans",
+                "'Prima Legio' painting"
+            ],
+            "collector": "Soran",
+            "reward_once": "Inquisitor staff piece",
+            "reward_always": {
+                "chronotes": 6810,
+                "pylon-batteries": 100
+            }
+        },
+        {
+            "name": "Museum - Armadylean I",
+            "minlevel": 70,
+            "maxlevel": 81,
+            "artefacts": [
+                "Ikovian gerege",
+                "Toy glider",
+                "Toy war golem",
+                "Avian song-egg player",
+                "Keshik drum",
+                "Morin khuur",
+                "Aviansie dreamcoat",
+                "Ceremonial plume",
+                "Peacocking parasol"
+            ],
+            "collector": "Velucia",
+            "reward_once": null,
+            "reward_always": {
+                "chronotes": 7110
+            }
+        },
+        {
+            "name": "Museum - Armadylean II",
+            "minlevel": 85,
+            "maxlevel": 98,
+            "artefacts": [
+                "Hawkeye lens multi-vision scope",
+                "Talon-3 razor wing",
+                "Prototype gravimeter",
+                "Songbird recorder",
+                "Dayguard shield",
+                "Stormguard gerege",
+                "Golem heart",
+                "Golem instruction"
+            ],
+            "collector": "Velucia",
+            "reward_once": null,
+            "reward_always": {
+                "chronotes": 7585
+            }
+        },
+        {
+            "name": "Museum - Armadylean III",
+            "minlevel": 103,
+            "maxlevel": 118,
+            "artefacts": [
+                "Blackfire lance",
+                "Nightguard shield",
+                "Flat cap",
+                "Night owl flight goggles",
+                "Prototype godbow",
+                "Prototype godstaff",
+                "Prototype godsword",
+                "Chuluu stone",
+                "Quintessence counter",
+                "Spherical astrolabe"
+            ],
+            "collector": "Velucia",
+            "reward_once": null,
+            "reward_always": {
+                "chronotes": 13085
+            }
+        },
+        {
+            "name": "Museum - Bandosian I",
+            "minlevel": 76,
+            "maxlevel": 89,
+            "artefacts": [
+                "Ekeleshuun blinder mask",
+                "Narogoshuun 'Hob-da-Gob' ball",
+                "Rekeshuun war tether",
+                "Ogre Kyzaj axe",
+                "Ork cleaver sword",
+                "Thorobshuun battle standard",
+                "Yurkolgokh stink grenade",
+                "High priest crozier",
+                "High priest mitre", 
+                "High priest orb"
+            ],
+            "collector": "Velucia",
+            "reward_once": null,
+            "reward_always": {
+                "chronotes": 8445
+            }
+        },
+        {
+            "name": "Museum - Bandosian II",
+            "minlevel": 94,
+            "maxlevel": 100,
+            "artefacts": [
+                "Beastkeeper helm",
+                "Idithuun horn ring",
+                "'Nosorog!' sculpture",
+                "Ourg megahitter",
+                "Ourg tower/goblin cower shield",
+                "Garagorshuun anchor",
+                "Dorgeshuun spear",
+                "'Forged in War' sculpture"
+            ],
+            "collector": "Velucia",
+            "reward_once": null,
+            "reward_always": {
+                "chronotes": 8057
+            }
+        },
+        {
+            "name": "Museum - Bandosian III",
+            "minlevel": 104,
+            "maxlevel": 119,
+            "artefacts": [
+                "Huzamogaarb chaos crown",
+                "Saragorgak star crown",
+                "Drogokishuun hook sword",
+                "Hobgoblin mansticker",
+                "Kal-i-kra chieftain crown",
+                "Kal-i-kra mace",
+                "Kal-i-kra warhorn",
+                "'Da Boss Man' sculpture",
+                "Horogothgar cooking pot"
+            ],
+            "collector": "Velucia",
+            "reward_once": null,
+            "reward_always": {
+                "chronotes": 0
+            }
+        },
+        {
+            "name": "Museum - Saradominist I",
+            "minlevel": 42,
+            "maxlevel": 56,
+            "artefacts": [
+                "'Frying pan'",
+                "Hallowed lantern",
+                "Ceremonial unicorn ornament",
+                "Ceremonial unicorn saddle",
+                "Everlight harp",
+                "Everlight trumpet",
+                "Everlight violin",
+                "Folded-arm figurine (female)",
+                "Folded-arm figurine (male)"
+            ],
+            "collector": "Velucia",
+            "reward_once": null,
+            "reward_always": {
+                "chronotes": 4997
+            }
+        },
+        {
+            "name": "Museum - Saradominist II",
+            "minlevel": 61,
+            "maxlevel": 72,
+            "artefacts": [
+                "Dominion discus",
+                "Dominion javelin",
+                "Dominion pelte shield",
+                "Bronze Dominion medal",
+                "Silver Dominion medal",
+                "Dominion torch",
+                "Decorative vase",
+                "Kantharos cup",
+                "Patera bowl"
+            ],
+            "collector": "Velucia",
+            "reward_once": null,
+            "reward_always": {
+                "chronotes": 6502
+            }
+        },
+        {
+            "name": "Museum - Saradominist III",
+            "minlevel": 84,
+            "maxlevel": 100,
+            "artefacts": [
+                "Dominarian device",
+                "Fishing trident",
+                "Amphora",
+                "Rod of Asclepius",
+                "Kopis dagger",
+                "Xiphos short"
+            ],
+            "collector": "Velucia",
+            "reward_once": null,
+            "reward_always": {
+                "chronotes": 5685
+            }
+        },
+        {
+            "name": "Museum - Saradominist IV",
+            "minlevel": 105,
+            "maxlevel": 117,
+            "artefacts": [
+                "'The Pride of Padosan' painting",
+                "'Hallowed Be the Everlight' painting",
+                "'The Lord of Light' painting",
+                "'The Enlightened Soul' scroll",
+                "'The Eudoxian Elements' tablet",
+                "Dore spear",
+                "Kontos lance"
+            ],
+            "collector": "Velucia",
+            "reward_once": null,
+            "reward_always": {
+                "chronotes": 8777
+            }
+        },
+        {
+            "name": "Museum - Zamorakian I",
+            "minlevel": 20,
+            "maxlevel": 36,
+            "artefacts": [
+                "Hookah pipe",
+                "Opulent wine goblet",
+                "Crest of Dagon",
+                "'Disorder' painting",
+                "Imp mask",
+                "Lesser demon mask",
+                "Greater demon mask",
+                "Order of Dis robes",
+                "Ritual dagger"
+            ],
+            "collector": "Velucia",
+            "reward_once": null,
+            "reward_always": {
+                "chronotes": 3242
+            }
+        },
+        {
+            "name": "Museum - Zamorakian II",
+            "minlevel": 45,
+            "maxlevel": 81,
+            "artefacts": [
+                "Branding iron",
+                "Manacles",
+                "'The Lake of Fire' painting",
+                "'Lust' metal sculpture",
+                "Chaos star",
+                "Spiked dog collar",
+                "Larupia trophy",
+                "Lion trophy",
+                "She-wolf trophy"
+            ],
+            "collector": "Velucia",
+            "reward_once": null,
+            "reward_always": {
+                "chronotes": 6432
+            }
+        },
+        {
+            "name": "Museum - Zamorakian III",
+            "minlevel": 89,
+            "maxlevel": 104,
+            "artefacts": [
+                "'Torment' metal sculpture",
+                "'Pandemonium' tapestry",
+                "Hellfire haladie",
+                "Hellfire katar",
+                "Hellfire zaghnal",
+                "'Possession' metal sculpture",
+                "Trishula",
+                "Tsutsaroth piercing"
+            ],
+            "collector": "Velucia",
+            "reward_once": null,
+            "reward_always": {
+                "chronotes": 8260
+            }
+        },
+        {
+            "name": "Museum - Zamorakian IV",
+            "minlevel": 110,
+            "maxlevel": 116,
+            "artefacts": [
+                "Chaos Elemental trophy",
+                "Virius trophy",
+                "Tsutsaroth helm",
+                "Tsutsaroth pauldron",
+                "Tsutsaroth urumi"
+            ],
+            "collector": "Velucia",
+            "reward_once": null,
+            "reward_always": {
+                "chronotes": 6792
+            }
+        },
+        {
+            "name": "Museum - Zarosian I",
+            "minlevel": 5,
+            "maxlevel": 25,
+            "artefacts": [
+                "Venator dagger",
+                "Venator light crossbow",
+                "Legionary gladius",
+                "Legionary square shield",
+                "Primis Elementis standard",
+                "Zaros effigy",
+                "Zarosian training dummy",
+                "Legatus Maximus figurine",
+                "'Solem in Umbra' painting"
+            ],
+            "collector": "Velucia",
+            "reward_once": null,
+            "reward_always": {
+                "chronotes": 2635
+            }
+        },
+        {
+            "name": "Museum - Zarosian II",
+            "minlevel": 47,
+            "maxlevel": 81,
+            "artefacts": [
+                "Ancient timepiece",
+                "Legatus pendant",
+                "'Incite Fear' spell scroll",
+                "Pontifex signet ring",
+                "Ceremonial mace",
+                "Pontifex Maximus",
+                "'Concensus ad Idem' painting",
+                "Pontifex censer",
+                "Pontifex crozier",
+                "Pontifex mitre"
+            ],
+            "collector": "Velucia",
+            "reward_once": null,
+            "reward_always": {
+                "chronotes": 7165
+            }
+        },
+        {
+            "name": "Museum - Zarosian III",
+            "minlevel": 86,
+            "maxlevel": 107,
+            "artefacts": [
+                "'Exsanguinate' spell scroll",
+                "Necromantic focus",
+                "Zarosian ewer",
+                "Zarosian stein",
+                "'Smoke Cloud' spell scroll",
+                "Vigorem vial",
+                "Ancient magic tablet",
+                "'Animate Dead' spell scroll",
+                "Portable phylactery"
+            ],
+            "collector": "Velucia",
+            "reward_once": null,
+            "reward_always": {
+                "chronotes": 9302
+            }
+        },
+        {
+            "name": "Museum - Zarosian IV",
+            "minlevel": 114,
+            "maxlevel": 118,
+            "artefacts": [
+                "Praetorian hood",
+                "Preatorian robes",
+                "Praetorian staff",
+                "Ancient globe",
+                "Battle plans",
+                "'Prima Legio' painting"
+            ],
+            "collector": "Velucia",
+            "reward_once": null,
+            "reward_always": {
+                "chronotes": 8512
+            }
+        },
+        {
+            "name": "Wise Am the Music Man",
+            "minlevel": 51,
+            "maxlevel": 91,
+            "artefacts": [
+                "Everlight harp",
+                "Everlight trumpet",
+                "Everlight violin",
+                "Avian song-egg player",
+                "Keshik drum",
+                "Morin khuur",
+                "Songbird recorder"
+            ],
+            "collector": "Wise Old Man",
+            "reward_once": "Koschei's needle",
+            "reward_always": {
+                "chronotes": 4024
+            }
+        },
+        {
+            "name": "Hat Problem",
+            "minlevel": 29,
+            "maxlevel": 114,
+            "artefacts": [
+                "Imp mask",
+                "Ekeleshuun blinder mask",
+                "High priest mitre",
+                "Beastkeeper helm",
+                "Huzamogaarb chaos crown",
+                "Flat cap",
+                "Praetorian hood"
+            ],
+            "collector": "Wise Old Man",
+            "reward_once": null,
+            "reward_always": {
+                "chronotes": 6775
+            }
+        },
+        {
+            "name": "Hat Hoarder",
+            "minlevel": 29,
+            "maxlevel": 116,
+            "artefacts": [
+                "Lesser demon mask",
+                "Greater demon mask",
+                "Ceremonial unicorn ornament",
+                "Pontifex mitre",
+                "Saragorgak star crown",
+                "Kal-i-kra chieftain crown",
+                "Tsutsaroth helm"
+            ],
+            "collector": "Wise Old Man",
+            "reward_once": null,
+            "reward_always": {
+                "chronotes": 5995
+            }
+        },
+        {
+            "name": "Magic Man",
+            "minlevel": 25,
+            "maxlevel": 118,
+            "artefacts": [
+                "Legatus Maximus figurine",
+                "Ritual dagger",
+                "Ancient timepiece",
+                "'Incite Fear' spell scroll",
+                "'Exsanguinate' spell scroll",
+                "High priest mitre",
+                "'Smoke Cloud' spell scroll",
+                "'Animate Dead' spell scroll",
+                "Portable phylactery",
+                "Chuluu stone"
+            ],
+            "collector": "Wise Old Man",
+            "reward_once": null,
+            "reward_always": {
+                "chronotes": 8600
+            }
+        },
+        {
+            "name": "Knowledge is Power",
+            "minlevel": 24,
+            "maxlevel": 119,
+            "artefacts": [
+                "Crest of Dagon",
+                "Ikovian gerege",
+                "Necromantic focus",
+                "Golem instruction",
+                "'The Enlightened Soul' scroll",
+                "'The Eudoxian Elements' tablet",
+                "'Da Boss Man' sculpture"
+            ],
+            "collector": "Wise Old Man",
+            "reward_once": "Amascut's Enchanted Gem",
+            "reward_always": {
+                "chronotes": 5584
+            }
+        }
+    ]
+}
