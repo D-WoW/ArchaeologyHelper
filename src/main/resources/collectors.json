@@ -1,0 +1,116 @@
+{
+    "collectors":
+            [
+                {
+                    "name": "Art Critic Jacques",
+                    "location": "Varrock Museum",
+                    "collections": [
+                        "Anarchic Abstraction",
+                        "Radiant Renaissance",
+                        "Imperial Impressionism"
+                    ]
+                },
+                {
+                    "name": "Chief Tess",
+                    "location": "Oo'glog",
+                    "collections": [
+                        "Blingy Fings",
+                        "Smoky Fings",
+                        "Hitty Fings",
+                        "Showy Fings"
+                    ]
+                },
+                {
+                    "name": "General Bentnoze",
+                    "location": "Goblin Village",
+                    "collections": [
+                        "Red Rum Relics I",
+                        "Red Rum Relics II",
+                        "Red Rum Relics III"
+                    ]
+                },
+                {
+                    "name": "General Wartface",
+                    "location": "Goblin Village",
+                    "collections": [
+                        "Green Gobbo Goodies I",
+                        "Green Gobbo Goodies II",
+                        "Green Gobbo Goodies III"
+                    ]
+                },
+                {
+                    "name": "Isaura",
+                    "location": "Black Knights' Base",
+                    "collections": [
+                        "Zamorakian I",
+                        "Zamorakian II",
+                        "Zamorakian III",
+                        "Zamorakian IV"
+                    ]
+                },
+                {
+                    "name": "Lowse",
+                    "location": "Armadyl's Tower",
+                    "collections": [
+                        "Armadylean I",
+                        "Armadylean II",
+                        "Armadylean III"
+                    ]
+                },
+                {
+                    "name": "Sir Atcha",
+                    "location": "White Knights' Castle",
+                    "collections": [
+                        "Saradominist I",
+                        "Saradominist II",
+                        "Saradominist III",
+                        "Saradominist IV"
+                    ]
+                },
+                {
+                    "name": "Soran",
+                    "location": "Varrock West Bank",
+                    "collections": [
+                        "Zarosian I",
+                        "Zarosian II",
+                        "Zarosian III",
+                        "Zarosian IV"
+                    ]
+                },
+                {
+                    "name": "Velucia",
+                    "location": "Varrock Digsite",
+                    "collections": [
+                        "Museum - Armadylean I",
+                        "Museum - Armadylean II",
+                        "Museum - Armadylean III",
+                        "Museum - Bandosian I",
+                        "Museum - Bandosian II",
+                        "Museum - Bandosian III",
+                        "Museum - Saradominist I",
+                        "Museum - Saradominist II",
+                        "Museum - Saradominist III",
+                        "Museum - Saradominist IV",
+                        "Museum - Zamorakian I",
+                        "Museum - Zamorakian II",
+                        "Museum - Zamorakian III",
+                        "Museum - Zamorakian IV",
+                        "Museum - Zarosian I",
+                        "Museum - Zarosian II",
+                        "Museum - Zarosian III",
+                        "Museum - Zarosian IV"
+                    ]
+                },
+                {
+                    "name": "Wise Old Man",
+                    "location": "Draynor Village",
+                    "collections": [
+                        "Wise Am The Music Man",
+                        "Hat Problem",
+                        "Hat Hoarder",
+                        "Magic Man",
+                        "Knowledge Is Power"
+                    ]
+                }
+            ]
+}
