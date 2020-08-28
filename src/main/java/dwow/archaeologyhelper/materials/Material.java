@@ -64,13 +64,39 @@ public enum Material {
     SOAPSTONE("Soapstone", 98, Faction.AGNOSTIC),
     THIRD_AGE_IRON("Third Age Iron", 5, Faction.AGNOSTIC),
     VELLUM("Vellum", 24, Faction.AGNOSTIC),
-    WHITE_OAK("White Oak", 17, Faction.AGNOSTIC);
+    WHITE_OAK("White Oak", 17, Faction.AGNOSTIC),
+    /**
+     * Other Materials | Name, Level, Faction, Respawn, Experience
+     */
+    SAPPHIRE("Sapphire", 0, Faction.NONE),
+    EMERALD("Emerald", 0, Faction.NONE),
+    RUBY("Ruby", 0, Faction.NONE),
+    DIAMOND("Diamond", 0, Faction.NONE),
+    DRAGONSTONE("Dragonstone", 0, Faction.NONE),
+    MOLTEN_GLASS("Molten Glass", 0, Faction.NONE),
+    DEATH_RUNE("Death Rune", 0, Faction.NONE),
+    WHITE_CANDLE("White Candle", 0, Faction.NONE),
+    BRONZE_BAR("Bronze Bar", 0, Faction.NONE),
+    SILVER_BAR("Silver Bar", 0, Faction.NONE),
+    CLOCKWORK("Clockwork", 0, Faction.NONE),
+    PHOENIX_FEATHER("Phoenix Feather", 0, Faction.NONE),
+    ROPE("Rope", 0, Faction.NONE),
+    BLACK_MUSHROOM_INK("Black Mushroom Ink", 0, Faction.NONE),
+    WEAPON_POISON_3("Weapon Poison (3)", 0, Faction.NONE);
     
     /**
-     * Information about the Material
+     * Name of the Material
      */
     private final String name;
+    
+    /** 
+     * Level of the Material
+     */
     private final int level;
+    
+    /**
+     * Faction of the Material
+     */
     private final Faction faction;
     
     /**
@@ -113,6 +139,26 @@ public enum Material {
         return this.faction;
     }
     
+    /**
+     * A help method to find the Material matching the String
+     * @param material
+     * @return 
+     */
+    public static Material findMaterial(String material) {
+        Material found = null;
+        for (Material m : Material.values()) {
+            if (material.equalsIgnoreCase(m.name)) {
+                found = m;
+                break;
+            }
+        }
+        return found;
+    }
+    
+    /**
+     * Get the visual String representation for the Material enumeration
+     * @return 
+     */
     @Override
     public String toString() {
         return this.name;

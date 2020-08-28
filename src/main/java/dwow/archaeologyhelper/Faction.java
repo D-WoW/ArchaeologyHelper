@@ -18,7 +18,8 @@ public enum Faction {
     ZAMORAKIAN("Zamorakian"),
     SARADOMINIST("Saradominist"),
     ARMADYLEAN("Armadylean"),
-    BANDOSIAN("Bandosian");
+    BANDOSIAN("Bandosian"),
+    NONE("None");
     
     /**
      * Name of the Faction
@@ -39,6 +40,22 @@ public enum Faction {
      */
     public String getName() {
         return this.name;
+    }
+    
+    /**
+     * A help method to find the Faction matching the String
+     * @param faction
+     * @return 
+     */
+    public static Faction findFaction(String faction) {
+        Faction found = null;
+        for (Faction f : Faction.values()) {
+            if (faction.equalsIgnoreCase(f.name)) {
+                found = f;
+                break;
+            }
+        }
+        return found;
     }
     
     /**
