@@ -1,0 +1,1939 @@
+{
+    "artefacts": [
+        {
+            "name": "Venator dagger",
+            "faction": "Zarosian",
+            "level": 5,
+            "experience": 305.1,
+            "chronotes": 206,
+            "chronotes_donation": 82,
+            "materials": {
+                "Third Age iron": 16,
+                "Zarosian insignia": 12
+            }
+        },
+        {
+            "name": "Venator light crossbow",
+            "faction": "Zarosian",
+            "level": 5,
+            "experience": 305.1,
+            "chronotes": 206,
+            "chronotes_donation": 82,
+            "materials": {
+                "Third Age iron": 12,
+                "Zarosian insignia": 16
+            }
+        },
+        {
+            "name": "Legionary gladius",
+            "faction": "Zarosian",
+            "level": 12,
+            "experience": 430.8,
+            "chronotes": 220,
+            "chronotes_donation": 88,
+            "materials": {
+                "Third Age iron": 10,
+                "Zarosian insignia": 6,
+                "Imperial steel": 12
+            }
+        },
+        {
+            "name": "Legionary square shield",
+            "faction": "Zarosian",
+            "level": 12,
+            "experience": 430.8,
+            "chronotes": 220,
+            "chronotes_donation": 88,
+            "materials": {
+                "Third Age iron": 8,
+                "Zarosian insignia": 8,
+                "Imperial steel": 12
+            }
+        },
+        {
+            "name": "Primis Elementis standard",
+            "faction": "Zarosian",
+            "level": 12,
+            "experience": 430.8,
+            "chronotes": 220,
+            "chronotes_donation": 88,
+            "materials": {
+                "Samite silk": 16,
+                "Third Age iron": 12
+            }
+        },
+        {
+            "name": "Zaros effigy",
+            "faction": "Zarosian",
+            "level": 17,
+            "experience": 520.5,
+            "chronotes": 244,
+            "chronotes_donation": 97,
+            "materials": {
+                "Samite silk": 8,
+                "White oak": 10,
+                "Zarosian insignia": 12
+            }
+        },
+        {
+            "name": "Zarosian training dummy",
+            "faction": "Zarosian",
+            "level": 17,
+            "experience": 520.5,
+            "chronotes": 244,
+            "chronotes_donation": 97,
+            "materials": {
+                "Third Age iron": 16,
+                "White oak": 14
+            }
+        },
+        {
+            "name": "Legatus Maximus figurine",
+            "faction": "Zarosian",
+            "level": 25,
+            "experience": 664.1,
+            "chronotes": 274,
+            "chronotes_donation": 109,
+            "materials": {
+                "Goldrune": 8,
+                "Zarosian insignia": 14,
+                "Ancient vis": 10
+            }
+        },
+        {
+            "name": "'Solem in Umbra' painting",
+            "faction": "Zarosian",
+            "level": 25,
+            "experience": 664.1,
+            "chronotes": 274,
+            "chronotes_donation": 109,
+            "materials": {
+                "Samite silk": 8,
+                "White oak": 10,
+                "Tyrian purple": 14
+            }
+        },
+        {
+            "name": "Ancient timepiece",
+            "faction": "Zarosian",
+            "level": 47,
+            "experience": 1423.3,
+            "chronotes": 416,
+            "chronotes_donation": 166,
+            "materials": {
+                "Goldrune": 12,
+                "Imperial steel": 16,
+                "Ancient vis": 18
+            }
+        },
+        {
+            "name": "Legatus pendant",
+            "faction": "Zarosian",
+            "level": 47,
+            "experience": 1423.3,
+            "chronotes": 416,
+            "chronotes_donation": 166,
+            "materials": {
+                "Third Age iron": 16,
+                "Goldrune": 18,
+                "Ancient vis": 12,
+                "Dragonstone": 1
+            }
+        },
+        {
+            "name": "'Incite Fear' spell scroll",
+            "faction": "Zarosian",
+            "level": 58,
+            "experience": 2193.3,
+            "chronotes": 508,
+            "chronotes_donation": 203,
+            "materials": {
+                "Vellum": 20,
+                "Ancient vis": 18,
+                "Blood of Orcus": 18
+            }
+        },
+        {
+            "name": "Pontifex signet ring",
+            "faction": "Zarosian",
+            "level": 58,
+            "experience": 2193.3,
+            "chronotes": 508,
+            "chronotes_donation": 203,
+            "materials": {
+                "Third Age iron": 16,
+                "Goldrune": 18,
+                "Ancient vis": 22,
+                "Dragonstone": 1
+            }
+        },
+        {
+            "name": "Ceremonial mace",
+            "faction": "Zarosian",
+            "level": 74,
+            "experience": 5600.0,
+            "chronotes": 624,
+            "chronotes_donation": 249,
+            "materials": {
+                "Imperial steel": 20,
+                "Third Age iron": 20,
+                "Goldrune": 28
+            }
+        },
+        {
+            "name": "Pontifex Maximus figurine",
+            "faction": "Zarosian",
+            "level": 74,
+            "experience": 5600.0,
+            "chronotes": 624,
+            "chronotes_donation": 249,
+            "materials": {
+                "Zarosian insignia": 24,
+                "Ancient vis": 16,
+                "Goldrune": 28,
+                "Dragonstone": 1
+            }
+        },
+        {
+            "name": "'Consensus ad Idem' painting",
+            "faction": "Zarosian",
+            "level": 74,
+            "experience": 5600.0,
+            "chronotes": 638,
+            "chronotes_donation": 255,
+            "materials": {
+                "White oak": 10,
+                "Samite silk": 10,
+                "Tyrian purple": 50
+            }
+        },
+        {
+            "name": "Pontifex censer",
+            "faction": "Zarosian",
+            "level": 81,
+            "experience": 7388.9,
+            "chronotes": 666,
+            "chronotes_donation": 266,
+            "materials": {
+                "Third Age iron": 20,
+                "Ancient Vis": 20,
+                "Goldrune": 32,
+                "Dragonstone": 1
+            }
+        },
+        {
+            "name": "Pontifex crozier",
+            "faction": "Zarosian",
+            "level": 81,
+            "experience": 7388.9,
+            "chronotes": 666,
+            "chronotes_donation": 266,
+            "materials": {
+                "Imperial steel": 20,
+                "Zarosian insignia": 20,
+                "Goldrune": 32
+            }
+        },
+        {
+            "name": "Pontifex mitre",
+            "faction": "Zarosian",
+            "level": 81,
+            "experience": 7388.9,
+            "chronotes": 666,
+            "chronotes_donation": 266,
+            "materials": {
+                "Samite silk": 32,
+                "Ancient vis": 20,
+                "Zarosian insignia": 20
+            }
+        },
+        {
+            "name": "'Exsanguinate' spell scroll",
+            "faction": "Zarosian",
+            "level": 86,
+            "experience": 9333.3,
+            "chronotes": 704,
+            "chronotes_donation": 281,
+            "materials": {
+                "Vellum": 40,
+                "Blood of Orcus": 36
+            }
+        },
+        {
+            "name": "Necromantic focus",
+            "faction": "Zarosian",
+            "level": 86,
+            "experience": 9333.3,
+            "chronotes": 704,
+            "chronotes_donation": 281,
+            "materials": {
+                "Imperial steel": 20,
+                "Blood of Orcus": 26,
+                "Ancient vis": 30
+            }
+        },
+        {
+            "name": "Zarosian ewer",
+            "faction": "Zarosian",
+            "level": 93,
+            "experience": 12500.0,
+            "chronotes": 760,
+            "chronotes_donation": 304,
+            "materials": {
+                "Third Age iron": 52,
+                "Zarosian insignia": 30
+            }
+        },
+        {
+            "name": "Zarosian stein",
+            "faction": "Zarosian",
+            "level": 93,
+            "experience": 12500.0,
+            "chronotes": 760,
+            "chronotes_donation": 304,
+            "materials": {
+                "Third Age iron": 16,
+                "Imperial steel": 36,
+                "Zarosian insignia": 30
+            }
+        },
+        {
+            "name": "'Smoke Cloud' spell scroll",
+            "faction": "Zarosian",
+            "level": 100,
+            "experience": 18666.7,
+            "chronotes": 844,
+            "chronotes_donation": 337,
+            "materials": {
+                "Vellum": 40,
+                "Ancient vis": 20,
+                "Blood of Orcus": 32
+            }
+        },
+        {
+            "name": "Vigorem vial",
+            "faction": "Zarosian",
+            "level": 100,
+            "experience": 18666.7,
+            "chronotes": 844,
+            "chronotes_donation": 337,
+            "materials": {
+                "Imperial steel": 54,
+                "Ancient vis": 38,
+                "Molten glass": 1
+            }
+        },
+        {
+            "name": "Ancient magic tablet",
+            "faction": "Zarosian",
+            "level": 107,
+            "experience": 27000.0,
+            "chronotes": 942,
+            "chronotes_donation": 376,
+            "materials": {
+                "Ancient vis": 40,
+                "Blood of Orcus": 64
+            }
+        },
+        {
+            "name": "'Animate Dead' spell scroll",
+            "faction": "Zarosian",
+            "level": 107,
+            "experience": 27000.0,
+            "chronotes": 942,
+            "chronotes_donation": 376,
+            "materials": {
+                "Vellum": 40,
+                "Ancient vis": 24,
+                "Blood of Orcus": 40
+            }
+        },
+        {
+            "name": "Portable phylactery",
+            "faction": "Zarosian",
+            "level": 107,
+            "experience": 27000.0,
+            "chronotes": 942,
+            "chronotes_donation": 376,
+            "materials": {
+                "Imperial steel": 48,
+                "Blood of Orcus": 36,
+                "Ancient vis": 20
+            }
+        },
+        {
+            "name": "Praetorian hood",
+            "faction": "Zarosian",
+            "level": 114,
+            "experience": 36666.7,
+            "chronotes": 1096,
+            "chronotes_donation": 438,
+            "materials": {
+                "Ancient vis": 36,
+                "Samite silk": 48,
+                "Zarosian insignia": 40,
+                "Death rune": 30
+            }
+        },
+        {
+            "name": "Praetorian robes",
+            "faction": "Zarosian",
+            "level": 114,
+            "experience": 36666.7,
+            "chronotes": 1096,
+            "chronotes_donation": 438,
+            "materials": {
+                "Ancient vis": 30,
+                "Samite silk": 54,
+                "Zarosian insignia": 40,
+                "Death rune": 50
+            }
+        },
+        {
+            "name": "Praetorian staff",
+            "faction": "Zarosian",
+            "level": 114,
+            "experience": 36666.7,
+            "chronotes": 1096,
+            "chronotes_donation": 438,
+            "materials": {
+                "Imperial steel": 36,
+                "Ancient vis": 58,
+                "Zarosian insignia": 30,
+                "Death rune": 100
+            }
+        },
+        {
+            "name": "Ancient globe",
+            "faction": "Zarosian",
+            "level": 118,
+            "experience": 43333.3,
+            "chronotes": 1174,
+            "chronotes_donation": 469,
+            "materials": {
+                "White oak": 20,
+                "Tyrian purple": 54,
+                "Ancient vis": 60
+            }
+        },
+        {
+            "name": "Battle plans",
+            "faction": "Zarosian",
+            "level": 118,
+            "experience": 43333.3,
+            "chronotes": 1174,
+            "chronotes_donation": 469,
+            "materials": {
+                "Vellum": 40,
+                "Tyrian purple": 60,
+                "Ancient vis": 34
+            }
+        },
+        {
+            "name": "'Prima Legio' painting",
+            "faction": "Zarosian",
+            "level": 118,
+            "experience": 43333.3,
+            "chronotes": 1174,
+            "chronotes_donation": 469,
+            "materials": {
+                "White oak": 20,
+                "Samite silk": 20,
+                "Tyrian purple": 74,
+                "Zarosian insignia": 20
+            }
+        },
+        {
+            "name": "Hookah pipe",
+            "faction": "Zamorakian",
+            "level": 20,
+            "experience": 574.4,
+            "chronotes": 250,
+            "chronotes_donation": 100,
+            "materials": {
+                "Third Age iron": 10,
+                "Goldrune": 12,
+                "Orthenglass": 8
+            }
+        },
+        {
+            "name": "Opulent wine goblet",
+            "faction": "Zamorakian",
+            "level": 20,
+            "experience": 574.4,
+            "chronotes": 250,
+            "chronotes_donation": 100,
+            "materials": {
+                "Third Age iron": 14,
+                "Goldrune": 16
+            }
+        },
+        {
+            "name": "Crest of Dagon",
+            "faction": "Zamorakian",
+            "level": 24,
+            "experience": 646.2,
+            "chronotes": 272,
+            "chronotes_donation": 108,
+            "materials": {
+                "Goldrune": 14,
+                "Orthenglass": 18
+            }
+        },
+        {
+            "name": "'Disorder' painting",
+            "faction": "Zamorakian",
+            "level": 24,
+            "experience": 646.2,
+            "chronotes": 272,
+            "chronotes_donation": 108,
+            "materials": {
+                "Samite silk": 6,
+                "White oak": 6,
+                "Vellum": 6,
+                "Cadmium red": 14
+            }
+        },
+        {
+            "name": "Imp mask",
+            "faction": "Zamorakian",
+            "level": 29,
+            "experience": 735.9,
+            "chronotes": 282,
+            "chronotes_donation": 112,
+            "materials": {
+                "Leather scraps": 10,
+                "Chaotic brimstone": 10,
+                "Demonhide": 12
+            }
+        },
+        {
+            "name": "Lesser demon mask",
+            "faction": "Zamorakian",
+            "level": 29,
+            "experience": 735.9,
+            "chronotes": 282,
+            "chronotes_donation": 112,
+            "materials": {
+                "Leather scraps": 6,
+                "Chaotic brimstone": 8,
+                "Demonhide": 12,
+                "Cadmium red": 6
+            }
+        },
+        {
+            "name": "Greater demon mask",
+            "faction": "Zamorakian",
+            "level": 29,
+            "experience": 735.9,
+            "chronotes": 282,
+            "chronotes_donation": 112,
+            "materials": {
+                "Third Age iron": 6,
+                "Leather scraps": 6,
+                "Chaotic brimstone": 8,
+                "Demonhide": 12
+            }
+        },
+        {
+            "name": "Order of Dis robes",
+            "faction": "Zamorakian",
+            "level": 36,
+            "experience": 861.5,
+            "chronotes": 352,
+            "chronotes_donation": 140,
+            "materials": {
+                "Samite silk": 16,
+                "Cadmium red": 10,
+                "Eye of Dagon": 14
+            }
+        },
+        {
+            "name": "Ritual dagger",
+            "faction": "Zamorakian",
+            "level": 36,
+            "experience": 861.5,
+            "chronotes": 352,
+            "chronotes_donation": 140,
+            "materials": {
+                "Goldrune": 16,
+                "Hellfire metal": 24,
+                "Ruby": 1
+            }
+        },
+        {
+            "name": "Branding iron",
+            "faction": "Zamorakian",
+            "level": 45,
+            "experience": 1283.3,
+            "chronotes": 412,
+            "chronotes_donation": 164,
+            "materials": {
+                "Third Age iron": 14,
+                "Eye of Dagon": 12,
+                "Hellfire metal": 20
+            }
+        },
+        {
+            "name": "Manacles",
+            "faction": "Zamorakian",
+            "level": 45,
+            "experience": 1283.3,
+            "chronotes": 412,
+            "chronotes_donation": 164,
+            "materials": {
+                "Third Age iron": 14,
+                "Chaotic brimstone": 18,
+                "Eye of Dagon": 14
+            }
+        },
+        {
+            "name": "'The Lake of Fire' painting",
+            "faction": "Zamorakian",
+            "level": 65,
+            "experience": 3500.0,
+            "chronotes": 578,
+            "chronotes_donation": 231,
+            "materials": {
+                "Samite silk": 10,
+                "White oak": 10,
+                "Vellum": 10,
+                "Cadmium red": 34
+            }
+        },
+        {
+            "name": "'Lust' metal sculpture",
+            "faction": "Zamorakian",
+            "level": 65,
+            "experience": 3500.0,
+            "chronotes": 578,
+            "chronotes_donation": 231,
+            "materials": {
+                "Third Age iron": 16,
+                "Eye of Dagon": 24,
+                "Goldrune": 24,
+                "Ruby": 1
+            }
+        },
+        {
+            "name": "Chaos star",
+            "faction": "Zamorakian",
+            "level": 68,
+            "experience": 4200.0,
+            "chronotes": 584,
+            "chronotes_donation": 233,
+            "materials": {
+                "Chaotic brimstone": 28,
+                "Hellfire metal": 36
+            }
+        },
+        {
+            "name": "Spiked dog collar",
+            "faction": "Zamorakian",
+            "level": 68,
+            "experience": 4200.0,
+            "chronotes": 584,
+            "chronotes_donation": 233,
+            "materials": {
+                "Third Age iron": 24,
+                "Leather scraps": 24,
+                "Chaotic brimstone": 16
+            }
+        },
+        {
+            "name": "Larupia trophy",
+            "faction": "Zamorakian",
+            "level": 81,
+            "experience": 7388.9,
+            "chronotes": 666,
+            "chronotes_donation": 266,
+            "materials": {
+                "Cadmium red": 18,
+                "Animal furs": 28,
+                "Orthenglass": 26
+            }
+        },
+        {
+            "name": "Lion trophy",
+            "faction": "Zamorakian",
+            "level": 81,
+            "experience": 7388.9,
+            "chronotes": 666,
+            "chronotes_donation": 266,
+            "materials": {
+                "Cadmium red": 18,
+                "Animal furs": 28,
+                "White oak": 26
+            }
+        },
+        {
+            "name": "She-wolf trophy",
+            "faction": "Zamorakian",
+            "level": 81,
+            "experience": 7388.9,
+            "chronotes": 666,
+            "chronotes_donation": 266,
+            "materials": {
+                "Chaotic brimstone": 26,
+                "Cadmium red": 18,
+                "Animal furs": 28
+            }
+        },
+        {
+            "name": "'Torment' metal sculpture",
+            "faction": "Zamorakian",
+            "level": 89,
+            "experience": 10500.0,
+            "chronotes": 724,
+            "chronotes_donation": 289,
+            "materials": {
+                "Eye of Dagon": 20,
+                "Third Age iron": 20,
+                "Hellfire metal": 38
+            }
+        },
+        {
+            "name": "'Pandemonium' tapestry",
+            "faction": "Zamorakian",
+            "level": 89,
+            "experience": 10500.0,
+            "chronotes": 724,
+            "chronotes_donation": 289,
+            "materials": {
+                "White oak": 12,
+                "Samite silk": 12,
+                "Vellum": 12,
+                "Cadmium red": 42
+            }
+        },
+        {
+            "name": "Hellfire haladie",
+            "faction": "Zamorakian",
+            "level": 98,
+            "experience": 16666.7,
+            "chronotes": 826,
+            "chronotes_donation": 330,
+            "materials": {
+                "Hellfire metal": 44,
+                "Third Age iron": 26,
+                "Leather scraps": 20
+            }
+        },
+        {
+            "name": "Hellfire katar",
+            "faction": "Zamorakian",
+            "level": 98,
+            "experience": 16666.7,
+            "chronotes": 826,
+            "chronotes_donation": 330,
+            "materials": {
+                "Hellfire metal": 50,
+                "Leather scraps": 40
+            }
+        },
+        {
+            "name": "Hellfire zaghnal",
+            "faction": "Zamorakian",
+            "level": 98,
+            "experience": 16666.7,
+            "chronotes": 826,
+            "chronotes_donation": 330,
+            "materials": {
+                "Hellfire metal": 38,
+                "White oak": 26,
+                "Orthenglass": 26
+            }
+        },
+        {
+            "name": "'Possession' metal sculpture",
+            "faction": "Zamorakian",
+            "level": 104,
+            "experience": 23333.3,
+            "chronotes": 894,
+            "chronotes_donation": 357,
+            "materials": {
+                "Eye of Dagon": 24,
+                "Chaotic brimstone": 30,
+                "Third Age iron": 44
+            }
+        },
+        {
+            "name": "Trishula",
+            "faction": "Zamorakian",
+            "level": 104,
+            "experience": 23333.3,
+            "chronotes": 894,
+            "chronotes_donation": 357,
+            "materials": {
+                "Hellfire metal": 48,
+                "Eye of Dagon": 30,
+                "Third Age iron": 20
+            }
+        },
+        {
+            "name": "Tsutsaroth piercing",
+            "faction": "Zamorakian",
+            "level": 104,
+            "experience": 23333.3,
+            "chronotes": 894,
+            "chronotes_donation": 357,
+            "materials": {
+                "Hellfire metal": 44,
+                "Chaotic brimstone": 30,
+                "Cadmium red": 24
+            }
+        },
+        {
+            "name": "Chaos Elemental trophy",
+            "faction": "Zamorakian",
+            "level": 110,
+            "experience": 31000.0,
+            "chronotes": 1004,
+            "chronotes_donation": 401,
+            "materials": {
+                "Chaotic brimstone": 52,
+                "White oak": 30,
+                "Hellfire metal": 30
+            }
+        },
+        {
+            "name": "Virius trophy",
+            "faction": "Zamorakian",
+            "level": 110,
+            "experience": 31000.0,
+            "chronotes": 1004,
+            "chronotes_donation": 401,
+            "materials": {
+                "Demonhide": 44,
+                "White oak": 34,
+                "Orthenglass": 34
+            }
+        },
+        {
+            "name": "Tsutsaroth helm",
+            "faction": "Zamorakian",
+            "level": 116,
+            "experience": 40000.0,
+            "chronotes": 1142,
+            "chronotes_donation": 456,
+            "materials": {
+                "Hellfire metal": 50,
+                "Eye of Dagon": 40,
+                "Goldrune": 40
+            }
+        },
+        {
+            "name": "Tsutsaroth pauldron",
+            "faction": "Zamorakian",
+            "level": 116,
+            "experience": 40000.0,
+            "chronotes": 1142,
+            "chronotes_donation": 456,
+            "materials": {
+                "Hellfire metal": 40,
+                "Goldrune": 50,
+                "Eye of Dagon": 40
+            }
+        },
+        {
+            "name": "Tsutsaroth urumi",
+            "faction": "Zamorakian",
+            "level": 116,
+            "experience": 40000.0,
+            "chronotes": 1142,
+            "chronotes_donation": 456,
+            "materials": {
+                "Hellfire metal": 50,
+                "Eye of Dagon": 40,
+                "Third Age iron": 40
+            }
+        },
+        {
+            "name": "'Frying pan'",
+            "faction": "Saradominist",
+            "level": 42,
+            "experience": 1073.3,
+            "chronotes": 392,
+            "chronotes_donation": 156,
+            "materials": {
+                "Third Age iron": 20,
+                "White marble": 24
+            }
+        },
+        {
+            "name": "Hallowed lantern",
+            "faction": "Saradominist",
+            "level": 42,
+            "experience": 1073.3,
+            "chronotes": 392,
+            "chronotes_donation": 156,
+            "materials": {
+                "Third Age iron": 20,
+                "Keramos": 24,
+                "White candle": 1
+            }
+        },
+        {
+            "name": "Ceremonial unicorn ornament",
+            "faction": "Saradominist",
+            "level": 48,
+            "experience": 1493.3,
+            "chronotes": 418,
+            "chronotes_donation": 167,
+            "materials": {
+                "Keramos": 26,
+                "Cobalt blue": 20
+            }
+        },
+        {
+            "name": "Ceremonial unicorn saddle",
+            "faction": "Saradominist",
+            "level": 48,
+            "experience": 1493.3,
+            "chronotes": 418,
+            "chronotes_donation": 167,
+            "materials": {
+                "Leather scraps": 24,
+                "Cobalt blue": 22
+            }
+        },
+        {
+            "name": "Everlight harp",
+            "faction": "Saradominist",
+            "level": 51,
+            "experience": 1703.3,
+            "chronotes": 466,
+            "chronotes_donation": 186,
+            "materials": {
+                "Everlight silvthril": 30,
+                "White oak": 22
+            }
+        },
+        {
+            "name": "Everlight trumpet",
+            "faction": "Saradominist",
+            "level": 51,
+            "experience": 1703.3,
+            "chronotes": 466,
+            "chronotes_donation": 186,
+            "materials": {
+                "Everlight silvthril": 28,
+                "Goldrune": 24
+            }
+        },
+        {
+            "name": "Everlight violin",
+            "faction": "Saradominist",
+            "level": 51,
+            "experience": 1703.3,
+            "chronotes": 466,
+            "chronotes_donation": 186,
+            "materials": {
+                "Star of Saradomin": 16,
+                "White oak": 20,
+                "Samite silk": 16
+            }
+        },
+        {
+            "name": "Folded-arm figurine (female)",
+            "faction": "Saradominist",
+            "level": 56,
+            "experience": 2053.3,
+            "chronotes": 490,
+            "chronotes_donation": 196,
+            "materials": {
+                "White marble": 30,
+                "Goldrune": 24
+            }
+        },
+        {
+            "name": "Folded-arm figurine (male)",
+            "faction": "Saradominist",
+            "level": 56,
+            "experience": 2053.3,
+            "chronotes": 490,
+            "chronotes_donation": 196,
+            "materials": {
+                "White marble": 30,
+                "Goldrune": 24
+            }
+        },
+        {
+            "name": "Dominion discus",
+            "faction": "Saradominist",
+            "level": 61,
+            "experience": 2566.7,
+            "chronotes": 556,
+            "chronotes_donation": 222,
+            "materials": {
+                "Keramos": 34,
+                "Star of Saradomin": 28
+            }
+        },
+        {
+            "name": "Dominion javelin",
+            "faction": "Saradominist",
+            "level": 61,
+            "experience": 2566.7,
+            "chronotes": 556,
+            "chronotes_donation": 222,
+            "materials": {
+                "Keramos": 32,
+                "Third Age iron": 30
+            }
+        },
+        {
+            "name": "Dominion pelte shield",
+            "faction": "Saradominist",
+            "level": 61,
+            "experience": 2566.7,
+            "chronotes": 556,
+            "chronotes_donation": 222,
+            "materials": {
+                "Star of Saradomin": 34,
+                "Samite silk": 28
+            }
+        },
+        {
+            "name": "Bronze Dominion medal",
+            "faction": "Saradominist",
+            "level": 69,
+            "experience": 4433.3,
+            "chronotes": 572,
+            "chronotes_donation": 228,
+            "materials": {
+                "Everlight silvthril": 36,
+                "Star of Saradomin": 26,
+                "Bronze bar": 1
+            }
+        },
+        {
+            "name": "Silver Dominion medal",
+            "faction": "Saradominist",
+            "level": 69,
+            "experience": 4433.3,
+            "chronotes": 572,
+            "chronotes_donation": 228,
+            "materials": {
+                "Everlight silvthril": 36,
+                "Star of Saradomin": 26,
+                "Silver bar": 1
+            }
+        },
+        {
+            "name": "Dominion torch",
+            "faction": "Saradominist",
+            "level": 69,
+            "experience": 4433.3,
+            "chronotes": 572,
+            "chronotes_donation": 228,
+            "materials": {
+                "Goldrune": 12,
+                "Orthenglass": 12,
+                "Everlight silvthril": 20,
+                "Star of Saradomin": 18
+            }
+        },
+        {
+            "name": "Decorative vase",
+            "faction": "Saradominist",
+            "level": 72,
+            "experience": 5133.3,
+            "chronotes": 606,
+            "chronotes_donation": 242,
+            "materials": {
+                "White marble": 36,
+                "Cobalt blue": 30
+            }
+        },
+        {
+            "name": "Kantharos cup",
+            "faction": "Saradominist",
+            "level": 72,
+            "experience": 5133.3,
+            "chronotes": 606,
+            "chronotes_donation": 242,
+            "materials": {
+                "Everlight silvthril": 30,
+                "Orthenglass": 36,
+                "Sapphire": 1
+            }
+        },
+        {
+            "name": "Patera bowl",
+            "faction": "Saradominist",
+            "level": 72,
+            "experience": 5133.3,
+            "chronotes": 606,
+            "chronotes_donation": 242,
+            "materials": {
+                "Keramos": 36,
+                "Goldrune": 30,
+                "Sapphire": 1
+            }
+        },
+        {
+            "name": "Dominarian device",
+            "faction": "Saradominist",
+            "level": 84,
+            "experience": 8555.6,
+            "chronotes": 686,
+            "chronotes_donation": 274,
+            "materials": {
+                "Everlight silvthril": 30,
+                "Keramos": 22,
+                "Third Age iron": 22,
+                "Clockwork": 1
+            }
+        },
+        {
+            "name": "Fishing trident",
+            "faction": "Saradominist",
+            "level": 84,
+            "experience": 8555.6,
+            "chronotes": 686,
+            "chronotes_donation": 274,
+            "materials": {
+                "Star of Saradomin": 22,
+                "Third Age iron": 30,
+                "Goldrune": 22
+            }
+        },
+        {
+            "name": "Amphora",
+            "faction": "Saradominist",
+            "level": 92,
+            "experience": 11666.7,
+            "chronotes": 744,
+            "chronotes_donation": 297,
+            "materials": {
+                "Everlight silvthril": 34,
+                "Keramos": 46
+            }
+        },
+        {
+            "name": "Rod of asclepius",
+            "faction": "Saradominist",
+            "level": 92,
+            "experience": 11666.7,
+            "chronotes": 744,
+            "chronotes_donation": 297,
+            "materials": {
+                "White marble": 30,
+                "Star of Saradomin": 24,
+                "Goldrune": 26
+            }
+        },
+        {
+            "name": "Kopis dagger",
+            "faction": "Saradominist",
+            "level": 100,
+            "experience": 18666.7,
+            "chronotes": 844,
+            "chronotes_donation": 337,
+            "materials": {
+                "Everlight silvthril": 50,
+                "Leather scraps": 42
+            }
+        },
+        {
+            "name": "Xiphos short sword",
+            "faction": "Saradominist",
+            "level": 100,
+            "experience": 18666.7,
+            "chronotes": 844,
+            "chronotes_donation": 337,
+            "materials": {
+                "Everlight silvthril": 46,
+                "Leather scraps": 46
+            }
+        },
+        {
+            "name": "'The Pride of Padosan' painting",
+            "faction": "Saradominist",
+            "level": 105,
+            "experience": 24500.0,
+            "chronotes": 910,
+            "chronotes_donation": 364,
+            "materials": {
+                "Cobalt blue": 52,
+                "White oak": 16,
+                "Samite silk": 16,
+                "Vellum": 16
+            }
+        },
+        {
+            "name": "'Hallowed Be the Everlight' painting",
+            "faction": "Saradominist",
+            "level": 105,
+            "experience": 24500.0,
+            "chronotes": 910,
+            "chronotes_donation": 364,
+            "materials": {
+                "Cobalt blue": 52,
+                "White oak": 16,
+                "Samite silk": 16,
+                "Vellum": 16
+            }
+        },
+        {
+            "name": "'The Lord of Light' painting",
+            "faction": "Saradominist",
+            "level": 105,
+            "experience": 24500.0,
+            "chronotes": 910,
+            "chronotes_donation": 364,
+            "materials": {
+                "Cobalt blue": 52,
+                "White oak": 16,
+                "Samite silk": 16,
+                "Vellum": 16
+            }
+        },
+        {
+            "name": "'The Enlightended Soul' scroll",
+            "faction": "Saradominist",
+            "level": 109,
+            "experience": 29666.7,
+            "chronotes": 988,
+            "chronotes_donation": 395,
+            "materials": {
+                "Star of Saradomin": 50,
+                "Vellum": 60
+            }
+        },
+        {
+            "name": "'The Eudoxian Elements' tablet",
+            "faction": "Saradominist",
+            "level": 109,
+            "experience": 29666.7,
+            "chronotes": 988,
+            "chronotes_donation": 395,
+            "materials": {
+                "White marble": 60,
+                "Goldrune": 50
+            }
+        },
+        {
+            "name": "Doru spear",
+            "faction": "Saradominist",
+            "level": 117,
+            "experience": 41666.7,
+            "chronotes": 1158,
+            "chronotes_donation": 463,
+            "materials": {
+                "Everlight silvthril": 70,
+                "White oak": 62
+            }
+        },
+        {
+            "name": "Kontos lance",
+            "faction": "Saradominist",
+            "level": 117,
+            "experience": 41666.7,
+            "chronotes": 1158,
+            "chronotes_donation": 463,
+            "materials": {
+                "Everlight silvthril": 70,
+                "Samite silk": 62
+            }
+        },
+        {
+            "name": "Ikovian gerege",
+            "faction": "Armadylean",
+            "level": 70,
+            "experience": 4666.7,
+            "chronotes": 602,
+            "chronotes_donation": 240,
+            "materials": {
+                "Third Age iron": 36,
+                "Wings of War": 30
+            }
+        },
+        {
+            "name": "Toy glider",
+            "faction": "Armadylean",
+            "level": 70,
+            "experience": 4666.7,
+            "chronotes": 602,
+            "chronotes_donation": 240,
+            "materials": {
+                "Stormguard steel": 36,
+                "White oak": 30
+            }
+        },
+        {
+            "name": "Toy war golem",
+            "faction": "Armadylean",
+            "level": 70,
+            "experience": 4666.7,
+            "chronotes": 602,
+            "chronotes_donation": 240,
+            "materials": {
+                "Third Age iron": 36,
+                "White oak": 30,
+                "Clockwork": 1
+            }
+        },
+        {
+            "name": "Avian song-egg player",
+            "faction": "Armadylean",
+            "level": 76,
+            "experience": 6066.7,
+            "chronotes": 628,
+            "chronotes_donation": 251,
+            "materials": {
+                "Stormguard steel": 36,
+                "Armadylean yellow": 32,
+                "Diamond": 1
+            }
+        },
+        {
+            "name": "Keshik drum",
+            "faction": "Armadylean",
+            "level": 76,
+            "experience": 6066.7,
+            "chronotes": 628,
+            "chronotes_donation": 251,
+            "materials": {
+                "Wings of War": 16,
+                "Animal furs": 16,
+                "White oak": 20,
+                "Leather scraps": 16
+            }
+        },
+        {
+            "name": "Morin khuur",
+            "faction": "Armadylean",
+            "level": 76,
+            "experience": 6066.7,
+            "chronotes": 628,
+            "chronotes_donation": 251,
+            "materials": {
+                "Armadylean yellow": 36,
+                "White oak": 32
+            }
+        },
+        {
+            "name": "Aviansie dreamcoat",
+            "faction": "Armadylean",
+            "level": 81,
+            "experience": 7388.9,
+            "chronotes": 666,
+            "chronotes_donation": 266,
+            "materials": {
+                "Armadylean yellow": 20,
+                "Samite silk": 30,
+                "Animal furs": 22
+            }
+        },
+        {
+            "name": "Ceremonial plume",
+            "faction": "Armadylean",
+            "level": 81,
+            "experience": 7388.9,
+            "chronotes": 666,
+            "chronotes_donation": 266,
+            "materials": {
+                "Armadylean yellow": 38,
+                "Goldrune": 34,
+                "Phoenix feather": 1
+            }
+        },
+        {
+            "name": "Peacocking parasol",
+            "faction": "Armadylean",
+            "level": 81,
+            "experience": 7388.9,
+            "chronotes": 666,
+            "chronotes_donation": 266,
+            "materials": {
+                "Armadylean yellow": 22,
+                "Samite silk": 30,
+                "White oak": 20
+            }
+        },
+        {
+            "name": "Hawkeye lens multi-vision scope",
+            "faction": "Armadylean",
+            "level": 85,
+            "experience": 8944.4,
+            "chronotes": 644,
+            "chronotes_donation": 275,
+            "materials": {
+                "Stormguard steel": 40,
+                "Orthenglass": 34
+            }
+        },
+        {
+            "name": "Talon-3 razor wing",
+            "faction": "Armadylean",
+            "level": 85,
+            "experience": 8944.4,
+            "chronotes": 644,
+            "chronotes_donation": 275,
+            "materials": {
+                "Aetherium alloy": 40,
+                "Wings of War": 34,
+                "Rope": 1
+            }
+        },
+        {
+            "name": "Prototype gravimeter",
+            "faction": "Armadylean",
+            "level": 91,
+            "experience": 11277.8,
+            "chronotes": 742,
+            "chronotes_donation": 296,
+            "materials": {
+                "Quintessence": 34,
+                "Leather scraps": 20,
+                "Third Age iron": 26
+            }
+        },
+        {
+            "name": "Songbird recorder",
+            "faction": "Armadylean",
+            "level": 91,
+            "experience": 11277.8,
+            "chronotes": 742,
+            "chronotes_donation": 296,
+            "materials": {
+                "Stormguard steel": 44,
+                "Orthenglass": 36,
+                "Diamond": 1
+            }
+        },
+        {
+            "name": "Dayguard shield",
+            "faction": "Armadylean",
+            "level": 95,
+            "experience": 14166.7,
+            "chronotes": 778,
+            "chronotes_donation": 311,
+            "materials": {
+                "Stormguard steel": 36,
+                "Wings of War": 28,
+                "White oak": 20
+            }
+        },
+        {
+            "name": "Stormguard gerege",
+            "faction": "Armadylean",
+            "level": 95,
+            "experience": 14166.7,
+            "chronotes": 778,
+            "chronotes_donation": 311,
+            "materials": {
+                "Stormguard steel": 36,
+                "Wings of War": 28,
+                "Goldrune": 20
+            }
+        },
+        {
+            "name": "Golem heart",
+            "faction": "Armadylean",
+            "level": 98,
+            "experience": 16666.7,
+            "chronotes": 826,
+            "chronotes_donation": 330,
+            "materials": {
+                "Aetherium alloy": 34,
+                "Quintessence": 24,
+                "Orthenglass": 16,
+                "Soapstone": 16
+            }
+        },
+        {
+            "name": "Golem instruction",
+            "faction": "Armadylean",
+            "level": 98,
+            "experience": 16666.7,
+            "chronotes": 826,
+            "chronotes_donation": 330,
+            "materials": {
+                "Quintessence": 46,
+                "Vellum": 44,
+                "Black mushroom ink": 1
+            }
+        },
+        {
+            "name": "Blackfire lance",
+            "faction": "Armadylean",
+            "level": 103,
+            "experience": 22166.7,
+            "chronotes": 878,
+            "chronotes_donation": 351,
+            "materials": {
+                "Aetherium alloy": 50,
+                "Quintessence": 46
+            }
+        },
+        {
+            "name": "Nightguard shield",
+            "faction": "Armadylean",
+            "level": 103,
+            "experience": 22166.7,
+            "chronotes": 878,
+            "chronotes_donation": 351,
+            "materials": {
+                "Stormguard steel": 30,
+                "Wings of War": 36,
+                "White oak": 30
+            }
+        },
+        {
+            "name": "Flat cap",
+            "faction": "Armadylean",
+            "level": 111,
+            "experience": 32333.3,
+            "chronotes": 1020,
+            "chronotes_donation": 408,
+            "materials": {
+                "Armadylean yellow": 60,
+                "Samite silk": 54
+            }
+        },
+        {
+            "name": "Night owl flight",
+            "faction": "Armadylean",
+            "level": 111,
+            "experience": 32333.3,
+            "chronotes": 1020,
+            "chronotes_donation": 408,
+            "materials": {
+                "Armadylean yellow": 44,
+                "Leather scraps": 40,
+                "Orthenglass": 30
+            }
+        },
+        {
+            "name": "Prototype godbow",
+            "faction": "Armadylean",
+            "level": 112,
+            "experience": 33666.7,
+            "chronotes": 1050,
+            "chronotes_donation": 420,
+            "materials": {
+                "Aetherium alloy": 50,
+                "Quintessence": 34,
+                "Wings of War": 34
+            }
+        },
+        {
+            "name": "Prototype godstaff",
+            "faction": "Armadylean",
+            "level": 112,
+            "experience": 33666.7,
+            "chronotes": 1050,
+            "chronotes_donation": 420,
+            "materials": {
+                "Aetherium alloy": 50,
+                "Quintessence": 34,
+                "Wings of War": 34
+            }
+        },
+        {
+            "name": "Prototype godsword",
+            "faction": "Armadylean",
+            "level": 112,
+            "experience": 33666.7,
+            "chronotes": 1050,
+            "chronotes_donation": 420,
+            "materials": {
+                "Aetherium alloy": 50,
+                "Wings of War": 34,
+                "Goldrune": 34
+            }
+        },
+        {
+            "name": "Chuluu stone",
+            "faction": "Armadylean",
+            "level": 118,
+            "experience": 43333.3,
+            "chronotes": 1174,
+            "chronotes_donation": 469,
+            "materials": {
+                "Aetherium alloy": 40,
+                "Quintessence": 30,
+                "Soapstone": 40,
+                "Goldrune": 24
+            }
+        },
+        {
+            "name": "Quintessence counter",
+            "faction": "Armadylean",
+            "level": 118,
+            "experience": 43333.3,
+            "chronotes": 1174,
+            "chronotes_donation": 469,
+            "materials": {
+                "Quintessence": 54,
+                "Stormguard steel": 40,
+                "White oak": 40
+            }
+        },
+        {
+            "name": "Spherical astrolabe",
+            "faction": "Armadylean",
+            "level": 118,
+            "experience": 43333.3,
+            "chronotes": 1174,
+            "chronotes_donation": 469,
+            "materials": {
+                "Aetherium alloy": 46,
+                "Armadylean yellow": 40,
+                "Orthenglass": 48
+            }
+        },
+        {
+            "name": "Ekeleshuun blinder mask",
+            "faction": "Bandosian",
+            "level": 76,
+            "experience": 6066.7,
+            "chronotes": 628,
+            "chronotes_donation": 251,
+            "materials": {
+                "Vulcanised rubber": 24,
+                "Malachite green": 20,
+                "Vellum": 24
+            }
+        },
+        {
+            "name": "Narogoshuun 'Hob-da-Gob' ball",
+            "faction": "Bandosian",
+            "level": 76,
+            "experience": 6066.7,
+            "chronotes": 628,
+            "chronotes_donation": 251,
+            "materials": {
+                "Vulcanised rubber": 36,
+                "Mark of the Kyzaj": 32
+            }
+        },
+        {
+            "name": "Rekeshuun war tether",
+            "faction": "Bandosian",
+            "level": 76,
+            "experience": 6066.7,
+            "chronotes": 628,
+            "chronotes_donation": 251,
+            "materials": {
+                "Warforged bronze": 20,
+                "Vulcanised rubber": 22,
+                "Leather scraps": 26
+            }
+        },
+        {
+            "name": "Ogre Kyzaj axe",
+            "faction": "Bandosian",
+            "level": 81,
+            "experience": 7388.9,
+            "chronotes": 666,
+            "chronotes_donation": 266,
+            "materials": {
+                "Warforged bronze": 28,
+                "Mark of the Kyzaj": 20,
+                "Fossilised bone": 24
+            }
+        },
+        {
+            "name": "Ork cleaver sword",
+            "faction": "Bandosian",
+            "level": 81,
+            "experience": 7388.9,
+            "chronotes": 666,
+            "chronotes_donation": 266,
+            "materials": {
+                "Warforged bronze": 36,
+                "Fossilised bone": 36
+            }
+        },
+        {
+            "name": "Thorobshuun battle standard",
+            "faction": "Bandosian",
+            "level": 83,
+            "experience": 8166.7,
+            "chronotes": 684,
+            "chronotes_donation": 273,
+            "materials": {
+                "Mark of the Kyzaj": 16,
+                "Malachite green": 22,
+                "White oak": 16,
+                "Samite silk": 20
+            }
+        },
+        {
+            "name": "Yurkolgokh stink grenade",
+            "faction": "Bandosian",
+            "level": 83,
+            "experience": 8166.7,
+            "chronotes": 684,
+            "chronotes_donation": 273,
+            "materials": {
+                "Yu'biusk clay": 38,
+                "Vulcanised rubber": 36,
+                "Weapon poison (3)": 1
+            }
+        },
+        {
+            "name": "High priest crozier",
+            "faction": "Bandosian",
+            "level": 89,
+            "experience": 10500.0,
+            "chronotes": 724,
+            "chronotes_donation": 289,
+            "materials": {
+                "Mark of the Kyzaj": 26,
+                "Malachite green": 24,
+                "Goldrune": 28
+            }
+        },
+        {
+            "name": "High priest mitre",
+            "faction": "Bandosian",
+            "level": 89,
+            "experience": 10500.0,
+            "chronotes": 724,
+            "chronotes_donation": 289,
+            "materials": {
+                "Mark of the Kyzaj": 26,
+                "Malachite green": 24,
+                "Samite silk": 28
+            }
+        },
+        {
+            "name": "High priest orb",
+            "faction": "Bandosian",
+            "level": 89,
+            "experience": 10500.0,
+            "chronotes": 724,
+            "chronotes_donation": 289,
+            "materials": {
+                "Mark of the Kyzaj": 26,
+                "Malachite green": 24,
+                "Goldrune": 28
+            }
+        },
+        {
+            "name": "Beastkeeper helm",
+            "faction": "Bandosian",
+            "level": 94,
+            "experience": 13333.3,
+            "chronotes": 776,
+            "chronotes_donation": 310,
+            "materials": {
+                "Warforged bronze": 16, 
+                "Vulcanised rubber": 24,
+                "Animal furs": 20,
+                "Fossilised bone": 24
+            }
+        },
+        {
+            "name": "Idithuun horn ring",
+            "faction": "Bandosian",
+            "level": 94,
+            "experience": 13333.3,
+            "chronotes": 776,
+            "chronotes_donation": 310,
+            "materials": {
+                "Yu'biusk clay": 40,
+                "Vulcanised rubber": 44
+            }
+        },
+        {
+            "name": "'Nosorog!' sculpture",
+            "faction": "Bandosian",
+            "level": 94,
+            "experience": 13333.3,
+            "chronotes": 776,
+            "chronotes_donation": 310,
+            "materials": {
+                "Yu'biusk clay": 30,
+                "Malachite green": 24,
+                "Warforged bronze": 30
+            }
+        },
+        {
+            "name": "Ourg megahitter",
+            "faction": "Bandosian",
+            "level": 97,
+            "experience": 15833.3,
+            "chronotes": 810,
+            "chronotes_donation": 324,
+            "materials": {
+                "White oak": 20,
+                "Leather scraps": 20,
+                "Orthenglass": 26,
+                "Malachite green": 22
+            }
+        },
+        {
+            "name": "Ourg tower/goblin cower shield",
+            "faction": "Bandosian",
+            "level": 97,
+            "experience": 15833.3,
+            "chronotes": 810,
+            "chronotes_donation": 324,
+            "materials": {
+                "Mark of the Kyzaj": 20,
+                "Third Age iron": 26,
+                "Leather scraps": 22,
+                "White oak": 20
+            }
+        },
+        {
+            "name": "Garagorshuun anchor",
+            "faction": "Bandosian",
+            "level": 97,
+            "experience": 15833.3,
+            "chronotes": 810,
+            "chronotes_donation": 324,
+            "materials": {
+                "Warforged bronze": 32,
+                "Mark of the Kyzaj": 26,
+                "Third Age iron": 30
+            }
+        },
+        {
+            "name": "Dorgeshuun spear",
+            "faction": "Bandosian",
+            "level": 100,
+            "experience": 18666.7,
+            "chronotes": 844,
+            "chronotes_donation": 337,
+            "materials": {
+                "Warforged bronze": 50,
+                "White oak": 42
+            }
+        },
+        {
+            "name": "'Forged in War' sculpture",
+            "faction": "Bandosian",
+            "level": 100,
+            "experience": 18666.7,
+            "chronotes": 844,
+            "chronotes_donation": 337,
+            "materials": {
+                "Warforged bronze": 50,
+                "Yu'biusk clay": 42,
+                "Emerald": 1
+            }
+        },
+        {
+            "name": "Huzamogaarb chaos crown",
+            "faction": "Bandosian",
+            "level": 104,
+            "experience": 23333.3,
+            "chronotes": 894,
+            "chronotes_donation": 357,
+            "materials": {
+                "Warforged bronze": 44,
+                "Third Age iron": 34,
+                "Eye of Dagon": 20
+            }
+        },
+        {
+            "name": "Saragorgak star crown",
+            "faction": "Bandosian",
+            "level": 104,
+            "experience": 23333.3,
+            "chronotes": 894,
+            "chronotes_donation": 357,
+            "materials": {
+                "Warforged bronze": 44,
+                "Third Age iron": 34,
+                "Star of Saradomin": 20
+            }
+        },
+        {
+            "name": "Drogokishuun",
+            "faction": "Bandosian",
+            "level": 110,
+            "experience": 31000.0,
+            "chronotes": 1004,
+            "chronotes_donation": 401,
+            "materials": {
+                "Warforged bronze": 44,
+                "Malachite green": 36,
+                "Fossilised bone": 32
+            }
+        },
+        {
+            "name": "Hobgoblin mansticker",
+            "faction": "Bandosian",
+            "level": 110,
+            "experience": 31000.0,
+            "chronotes": 1004,
+            "chronotes_donation": 401,
+            "materials": {
+                "Warforged bronze": 66,
+                "Fossilised bone": 46
+            }
+        },
+        {
+            "name": "Kal-i-kra chieftain crown",
+            "faction": "Bandosian",
+            "level": 115,
+            "experience": 38333.3,
+            "chronotes": 1112,
+            "chronotes_donation": 444,
+            "materials": {
+                "Yu'biusk clay": 66,
+                "Animal furs": 60
+            }
+        },
+        {
+            "name": "Kal-i-kra mace",
+            "faction": "Bandosian",
+            "level": 115,
+            "experience": 38333.3,
+            "chronotes": 1112,
+            "chronotes_donation": 444,
+            "materials": {
+                "Vulcanised rubber": 42,
+                "Third Age iron": 44,
+                "Fossilised bone": 40
+            }
+        },
+        {
+            "name": "Kal-i-kra warhorn",
+            "faction": "Bandosian",
+            "level": 115,
+            "experience": 38333.3,
+            "chronotes": 1112,
+            "chronotes_donation": 444,
+            "materials": {
+                "Vulcanised rubber": 44,
+                "Fossilised bone": 42,
+                "Animal furs": 40
+            }
+        },
+        {
+            "name": "'Da Boss Man' sculpture",
+            "faction": "Bandosian",
+            "level": 119,
+            "experience": 45000.0,
+            "chronotes": 1204,
+            "chronotes_donation": 481,
+            "materials": {
+                "Yu'biusk clay": 50,
+                "Malachite green": 44,
+                "Soapstone": 44
+            }
+        },
+        {
+            "name": "Horogothgar cooking pot",
+            "faction": "Bandosian",
+            "level": 119,
+            "experience": 45000.0,
+            "chronotes": 1204,
+            "chronotes_donation": 481,
+            "materials": {
+                "Yu'biusk clay": 60,
+                "Malachite green": 38,
+                "Soapstone": 40
+            }
+        }
+    ]
+}
