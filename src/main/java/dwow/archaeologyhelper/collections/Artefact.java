@@ -5,6 +5,7 @@
  */
 package dwow.archaeologyhelper.collections;
 
+import dwow.archaeologyhelper.Faction;
 import dwow.archaeologyhelper.materials.Material;
 import java.util.Map;
 import java.util.Objects;
@@ -14,33 +15,69 @@ import java.util.TreeMap;
  *
  * @author Michael
  */
-public class Artifact {
+public class Artefact {
+    
     /**
-     * Information about the Artifact
+     * Name of the Artefact
      */
     private final String name;
+    
+    /**
+     * Faction of the Artefact
+     */
+    private final Faction faction;
+    
+    /**
+     * Level of the Artefact
+     */
     private final int level;
+    
+    /**
+     * Experience of the Artefact
+     */
     private final double experience;
     
     /**
-     * Materials required to repair the Artifact: <Material, Amount> 
+     * Chronotes reward for turning in the Artefact
+     */
+    private final int chronotes;
+    
+    /**
+     * Chronotes reward for donating the Artefact
+     */
+    private final int chronotes_donation;
+    
+    /**
+     * Materials required to repair the Artefact: <Material, Amount> 
      */
     private final Map<Material, Integer> materials = new TreeMap();
     
     /**
      * The constructor for initializing Artifact objects
      * @param name          The name of the Artifact
+     * @param faction       The faction of the Artifact
      * @param lvl           The level of the Artifact
      * @param exp           The experience the Artifact grants
+     * @param chronotes     The chronotes reward for turning in the Artifact
+     * @param chronotes_d   The chronotes reward for donating the Artefact
      */
-    public Artifact(String name, int lvl, double exp) {
+    public Artefact(
+            String name, 
+            Faction faction, 
+            int lvl, 
+            double exp, 
+            int chronotes,
+            int chronotes_d) {
         this.name = name;
+        this.faction = faction;
         this.level = lvl;
         this.experience = exp;
+        this.chronotes = chronotes;
+        this.chronotes_donation = chronotes_d;
     }
     
     /**
-     * Get the name of the Artifact
+     * Get the name of the Artefact
      * @return 
      */
     public String getName() {
@@ -48,7 +85,7 @@ public class Artifact {
     }
     
     /**
-     * Get the level of the Artifact
+     * Get the level of the Artefact
      * @return 
      */
     public int getLevel() {
@@ -56,7 +93,7 @@ public class Artifact {
     }
     
     /**
-     * Get the experience of the Artifact
+     * Get the experience of the Artefact
      * @return 
      */
     public double getExperience() {
@@ -64,7 +101,7 @@ public class Artifact {
     }
     
     /**
-     * Get the materials required for this Artifact
+     * Get the materials required for this Artefact
      * @return 
      */
     public Map<Material, Integer> getMaterials() {
@@ -88,16 +125,16 @@ public class Artifact {
     @Override
     public boolean equals(Object other) {
         if (this == other) return true;
-        if (other == null || !(other instanceof Artifact)) return false;
+        if (other == null || !(other instanceof Artefact)) return false;
         
-        Artifact artifact = (Artifact) other;
+        Artefact artifact = (Artefact) other;
         return (artifact.name.equals(this.name) &&
                 artifact.level == this.level &&
                 artifact.experience == this.experience);
     }
 
     /**
-     * Get the hashCode for the Artifact class
+     * Get the hashCode for the Artefact class
      * @return 
      */
     @Override
@@ -110,11 +147,12 @@ public class Artifact {
     }
     
     /**
-     * Get the visual String representation for the Artifact class
+     * Get the visual String representation for the Artefact class
      * @return 
      */
     @Override
     public String toString() {
-        return this.name;
+        return String.format("Lvl %d - %s - %s - {%d materials}", 
+                this.level, this.name, this.faction.toString(), this.materials.size());
     }
 }
